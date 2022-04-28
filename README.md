@@ -1,2 +1,2 @@
-# pyrhon_exercise
+# python_exercise
 
